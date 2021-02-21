@@ -4,3 +4,7 @@
 .carousel-item img{
     height: 500px;
 }
+
+.btn-rounded {
+    border-radius: 15px;
+}
