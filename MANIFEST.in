@@ -1,0 +1,7 @@
+include README.md
+include requirements.txt
+about.html
+catalog.html
+index.html
+style.css
+recursive-include img/*
